@@ -3,9 +3,9 @@ description: Bookinfo ProductPage Service Helm Chart
 name: bookinfo-productpage
 version: 1.0.0
 appVersion: 1.0.0
-home: http://sitkmutt.bookinfo.dev.opsta.net/student30/productpage
+home: http://sitkmutt.bookinfo.dev.opsta.net/student5/productpage
 maintainers:
-  - name: student30
-    email: veerapat.ch@mail.kmutt.ac.th
+  - name: student5
+    email: thananan.animalwilldo@mail.kmutt.ac.th
 sources:
-  - https://github.com/pipe34150/sitkmutt-bookinfo-productpage
+  - https://github.com/lovegamemer/sitkmutt-bookinfo-productpage
